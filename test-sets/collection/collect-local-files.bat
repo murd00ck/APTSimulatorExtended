@@ -1,5 +1,4 @@
 @ECHO OFF
-
 ECHO ===========================================================================
 ECHO WORKING DIRS AND FILES
 ECHO Creating typical attacker working directory %APTDIR% ...
