@@ -1,15 +1,13 @@
-[![Not Maintained](https://img.shields.io/badge/Maintenance%20Level-Not%20Maintained-yellow.svg)](https://gist.github.com/cheerfulstoic/d107229326a01ff0f333a1d3476e068d)
+# APT Simulator Extended
 
-# APT Simulator
-
-Important: Don't just ZIP download or clone the repo if you don't plan to develop some test. Use the package in the [release](https://github.com/Neo23x0/APTSimulator/releases) which contains a packaged version with encrypted archives that don't contain cleartext samples and tools. 
+Important: Don't just ZIP download or clone the repo if you don't plan to develop some test. Use the package in the [release](https://github.com/Neo23x0/APTSimulator/releases) which contains a packaged version with encrypted archives that don't contain cleartext samples and tools.
 
 APT Simulator is a Windows Batch script that uses a set of tools and output files to make a system look as if it was compromised. In contrast to other adversary simulation tools, APT Simulator is designed to make the application as simple as possible. You don't need to run a web server, database or any agents on set of virtual machines. Just download the prepared archive, extract and run the contained Batch file as Administrator. Running APT Simulator takes less than a minute of your time.
 
 ## Use Cases
 
 1. POCs: Endpoint detection agents / compromise assessment tools
-2. Test your security monitoring's detection capabilities 
+2. Test your security monitoring's detection capabilities
 3. Test your SOCs response on a threat that isn't EICAR or a port scan
 4. Prepare an environment for digital forensics classes
 
@@ -270,7 +268,7 @@ No test cases yet
 
 ## Batch Mode
 
-Since version 0.8.0 APTSimulator features a batch mode provided by @juju4 that allows to run it in in a scripted way e.g. via [Ansible](https://github.com/juju4/ansible-win-aptsimulator) 
+Since version 0.8.0 APTSimulator features a batch mode provided by @juju4 that allows to run it in in a scripted way e.g. via [Ansible](https://github.com/juju4/ansible-win-aptsimulator)
 
 ```batch
 APTSimulator.bat -b
@@ -295,7 +293,7 @@ The CALDERA automated adversary emulation system
 Infection Monkey - An automated pentest tool
 [https://github.com/guardicore/monkey](https://github.com/guardicore/monkey)
 
-Flightsim - A utility to generate malicious network traffic and evaluate controls 
+Flightsim - A utility to generate malicious network traffic and evaluate controls
 [https://github.com/alphasoc/flightsim](https://github.com/alphasoc/flightsim)
 
 ## Integrated Projects / Software
