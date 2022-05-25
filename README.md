@@ -2,9 +2,13 @@
 
 I forked the original project to add some test-sets for internal use for Axitea, a MSSP provider.
 
+![immagine](https://user-images.githubusercontent.com/10051854/170266683-c7f28166-25e2-45b4-9cc5-9314872a95a7.png)
+
 Important: Don't just ZIP download or clone the repo if you don't plan to develop some test. Use the package in the [release](https://github.com/Neo23x0/APTSimulator/releases) which contains a packaged version with encrypted archives that don't contain cleartext samples and tools.
 
 APT Simulator is a Windows Batch script that uses a set of tools and output files to make a system look as if it was compromised. In contrast to other adversary simulation tools, APT Simulator is designed to make the application as simple as possible. You don't need to run a web server, database or any agents on set of virtual machines. Just download the prepared archive, extract and run the contained Batch file as Administrator. Running APT Simulator takes less than a minute of your time.
+
+
 
 ## Use Cases
 
