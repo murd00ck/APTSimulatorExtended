@@ -1,6 +1,6 @@
 # APT Simulator Extended
 
-I forked the original project to add some test-sets for internal use for Axitea, a MSSP provider.
+I forked the original project to add some test-sets.
 
 ![immagine](https://user-images.githubusercontent.com/10051854/170266683-c7f28166-25e2-45b4-9cc5-9314872a95a7.png)
 
