@@ -2,7 +2,7 @@
 
 I forked the original project to add some test-sets.
 
-![immagine](https://user-images.githubusercontent.com/10051854/170266683-c7f28166-25e2-45b4-9cc5-9314872a95a7.png)
+![Immagine1](https://user-images.githubusercontent.com/10051854/170267027-9d71b898-9c24-45b0-98bc-84bfe9b16aa1.gif)
 
 Important: Don't just ZIP download or clone the repo if you don't plan to develop some test. Use the package in the [release](https://github.com/Neo23x0/APTSimulator/releases) which contains a packaged version with encrypted archives that don't contain cleartext samples and tools.
 
