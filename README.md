@@ -1,4 +1,4 @@
-# APT Simulator Extended
+# APT Simulator
 
 I forked the original project to add some test-sets.
 
